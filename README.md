@@ -1,1 +1,1 @@
-# Detect-left-and-right-eyes-using-using-MobileNet
+# Detect-left-and-right-eyes-using-MobileNet
